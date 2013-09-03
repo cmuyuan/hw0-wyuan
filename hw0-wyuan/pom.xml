@@ -2,11 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f13.hw0</groupId>
 	<artifactId>hw0-wyuan</artifactId>
-	<version>0.07-SNAPSHOT</version>
+	<version>0.07</version>
 	<scm>
 		<connection>scm:git:git@github.com:cmuyuan/hw0-wyuan.git</connection>
 		<developerConnection>scm:git:git@github.com:cmuyuan/hw0-wyuan.git</developerConnection>
-	</scm>
+	  <tag>hw0-wyuan-0.07</tag>
+  </scm>
 	<repositories>
 		<repository>
 			<id>deployment</id>
